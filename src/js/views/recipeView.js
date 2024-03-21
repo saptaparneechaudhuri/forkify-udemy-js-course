@@ -1,6 +1,6 @@
 import View from './View';
 import icons from '../../img/icons.svg';
-import { Fraction } from 'fractional/';
+import { Fraction } from 'fractions';
 
 class RecipeView extends View {
   // private properties
